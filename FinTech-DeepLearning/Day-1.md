@@ -24,4 +24,4 @@ ps：通常cmd内需要先执行`conda init`，然后重开cmd
 conda会自己解决依赖问题
 5. *更新某个包：*`conda update [pkg_name]`  
 *&emsp;&emsp;PS:更新所有包：*`conda update --all`
-6. *删除某个包：* 
+6. *删除某个包：*`conda remove [pkg_name]`
