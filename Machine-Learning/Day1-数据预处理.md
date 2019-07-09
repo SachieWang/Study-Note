@@ -14,5 +14,5 @@
 
 ## 二、基本概念
 
-1. 错误率&emsp;--&emsp;分类错误的样本数占样本总数的比例&emsp;&emsp;<!--a href="https://www.codecogs.com/eqnedit.php?latex=E=a/m" target="_blank"><img src="https://latex.codecogs.com/gif.latex?E=a/m" title="E=a/m" /></a--><a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\fn_cs&space;\large&space;E=a/m" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_cs&space;\large&space;E=a/m" title="\large E=a/m" /></a>  
+1. 错误率&emsp;--&emsp;分类错误的样本数占样本总数的比例&ensp;<!--a href="https://www.codecogs.com/eqnedit.php?latex=E=a/m" target="_blank"><img src="https://latex.codecogs.com/gif.latex?E=a/m" title="E=a/m" /></a--><a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\fn_cs&space;\large&space;E=a/m" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\fn_cs&space;\large&space;E=a/m" title="\large E=a/m" /></a>  
 2.test
