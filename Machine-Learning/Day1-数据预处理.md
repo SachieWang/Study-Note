@@ -11,3 +11,8 @@
 &emsp;&emsp;作用：利用imputer类处理丢失数据（利用平均值或中间值代替）
 4. sklearn.model_selection  
 &emsp;&emsp;作用：利用
+
+## 二、基本概念
+
+1. 错误率&emsp;--&emsp;分类错误的样本数占样本总数的比例&emsp;&emsp;$E=a/m$  
+2.test
